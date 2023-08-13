@@ -1,0 +1,1 @@
+["WeekOfMonth", "WeekOfMonthClaimed", "Age", "PolicyNumber", "RepNumber", "Deductible", "DriverRating", "Year"]
