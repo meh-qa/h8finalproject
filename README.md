@@ -8,6 +8,6 @@ Title:
 Vehicle Insurance Claim Fraud Detection
 
 Description:
-Proyek ini pertujuan untuk mendeteksi tindak penipuan pada klaim asuransi kendaraan bermotor
+Proyek ini berfokus pada pembuatan model prediktif untuk mendeteksi tindak penipuan pada klaim asuransi kendaraan bermotor
 
 Conclusion:
